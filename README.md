@@ -1,4 +1,3 @@
-# Basic Latex Template
-This is a basic LaTeX template that keeps math notes and projects organized.
+# Stein Variational Newton method writeup
 
-This was adapted from Simon Rea's transcription of Geometric Anatomy of Theoretical Physics. All thanks go to him!
+These notes contain the basic results for application of SVN methods to gravitational wave parameter estimation.
